@@ -1,2 +1,8 @@
 # Algorithms
-This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+
+---
+
+## 알고리즘 🔥
+
+- 무조건 매일 최소 한개씩
+- B형 왤캐 어려운데.. 진짜 이러다 ㅈ될 것 같아..
